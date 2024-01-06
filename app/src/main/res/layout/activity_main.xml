@@ -8,12 +8,12 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="159dp"
-        android:layout_height="125dp"
-
+        android:layout_width="263dp"
+        android:layout_height="266dp"
+        android:onClick="go"
         android:text="CLICK ME"
         android:textSize="30sp"
-        tools:layout_editor_absoluteX="126dp"
+        tools:layout_editor_absoluteX="74dp"
         tools:layout_editor_absoluteY="264dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
